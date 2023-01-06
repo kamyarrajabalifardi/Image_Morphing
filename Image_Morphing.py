@@ -261,10 +261,6 @@ if __name__ == '__main__':
     video_frames = Image_Morphing(img1, img2,
                                   points1, points2,
                                   tri1, 45,
-                                  'morph1.jpg', 'morph2.jpg')
+                                  'Morph1.jpg', 'Morph2.jpg')
     Video_Maker('Video_Result.mp4', video_frames, 30.0)
-
-
-
-
     
