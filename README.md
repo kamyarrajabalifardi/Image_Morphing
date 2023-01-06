@@ -9,9 +9,9 @@ Then, the Delaunay triangularization algorithm is used to partition images into 
 <img height = "300" src="https://user-images.githubusercontent.com/46090276/211058837-66b2d541-2360-4f50-b687-421f2beab65e.JPG" alt="Delaunay">
 </p>
 
-We generate each video frame based on image warping and the convex combination of pixels' intensities.
+We generate each video frame based on image warping and the convex combination of pixels' intensities. Here is my result:
 
-
-
-> https://user-images.githubusercontent.com/46090276/211059336-492519e6-94a6-4f1c-a0e7-fbb06f25b278.mp4
+<p align="center">
+<img src="https://user-images.githubusercontent.com/46090276/211064186-316c89f5-936b-47cf-9ab4-61fe215f831a.gif" alt="gif")
+</p>
 
